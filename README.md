@@ -19,3 +19,6 @@ Experiment with
 
 ## Dataset
 It is available [here](https://www.aicrowd.com/challenges/chunin-exams-food-track-cv-2021/dataset_files).There are approx 9233 images in train and 484 images in test set. 
+
+## Submission
+The submission is for [this challenge](https://www.aicrowd.com/challenges/chunin-exams-food-track-cv-2021) on ai-crowd portal. This was done using fastai and resnet-50 pre-trained model . Using this code I achieved an accuracy of 0.616 
